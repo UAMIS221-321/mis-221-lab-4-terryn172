@@ -1,0 +1,14 @@
+/Users/nathanterry/Desktop/221_fall/Labs/Lab4/mis-221-lab-4-terryn172/obj/Debug/net7.0/mis-221-lab-4-terryn172.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanterry/Desktop/221_fall/Labs/Lab4/mis-221-lab-4-terryn172/obj/Debug/net7.0/mis-221-lab-4-terryn172.AssemblyInfoInputs.cache
+/Users/nathanterry/Desktop/221_fall/Labs/Lab4/mis-221-lab-4-terryn172/obj/Debug/net7.0/mis-221-lab-4-terryn172.AssemblyInfo.cs
+/Users/nathanterry/Desktop/221_fall/Labs/Lab4/mis-221-lab-4-terryn172/obj/Debug/net7.0/mis-221-lab-4-terryn172.csproj.CoreCompileInputs.cache
+/Users/nathanterry/Desktop/221_fall/Labs/Lab4/mis-221-lab-4-terryn172/bin/Debug/net7.0/mis-221-lab-4-terryn172
+/Users/nathanterry/Desktop/221_fall/Labs/Lab4/mis-221-lab-4-terryn172/bin/Debug/net7.0/mis-221-lab-4-terryn172.deps.json
+/Users/nathanterry/Desktop/221_fall/Labs/Lab4/mis-221-lab-4-terryn172/bin/Debug/net7.0/mis-221-lab-4-terryn172.runtimeconfig.json
+/Users/nathanterry/Desktop/221_fall/Labs/Lab4/mis-221-lab-4-terryn172/bin/Debug/net7.0/mis-221-lab-4-terryn172.dll
+/Users/nathanterry/Desktop/221_fall/Labs/Lab4/mis-221-lab-4-terryn172/bin/Debug/net7.0/mis-221-lab-4-terryn172.pdb
+/Users/nathanterry/Desktop/221_fall/Labs/Lab4/mis-221-lab-4-terryn172/obj/Debug/net7.0/mis-221-lab-4-terryn172.dll
+/Users/nathanterry/Desktop/221_fall/Labs/Lab4/mis-221-lab-4-terryn172/obj/Debug/net7.0/refint/mis-221-lab-4-terryn172.dll
+/Users/nathanterry/Desktop/221_fall/Labs/Lab4/mis-221-lab-4-terryn172/obj/Debug/net7.0/mis-221-lab-4-terryn172.pdb
+/Users/nathanterry/Desktop/221_fall/Labs/Lab4/mis-221-lab-4-terryn172/obj/Debug/net7.0/mis-221-lab-4-terryn172.genruntimeconfig.cache
+/Users/nathanterry/Desktop/221_fall/Labs/Lab4/mis-221-lab-4-terryn172/obj/Debug/net7.0/ref/mis-221-lab-4-terryn172.dll
